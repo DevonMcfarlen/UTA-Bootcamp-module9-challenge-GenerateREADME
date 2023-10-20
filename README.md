@@ -22,7 +22,7 @@
 
   ## Questions <a name="questions"></a>
 
-  ![My Github](https://github.com/DevonMcFarlen) 
+  [My Github](https://github.com/DevonMcFarlen) 
   <br>
   Email me at mcfarlendevon@gmail.com if you have any questions, and I'll get back to you as soon as possible!
 
