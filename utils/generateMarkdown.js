@@ -102,7 +102,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  ![My Github](${data.gitHub}) 
+  ![My Github](https://github.com/${data.gitHub}) 
   <br>
   Email me at ${data.email} if you have any questions, and I'll get back to you as soon as possible!
 
