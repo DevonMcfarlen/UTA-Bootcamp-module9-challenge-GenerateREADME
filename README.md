@@ -2,21 +2,23 @@
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
-## Description
 
-I made this for a challenge for the UTA Fullstack Development bootcamp. It's a simple quiz that reacts to a users button clicks to start and move through the quiz.
-It also keeps track of how long the user takes to complete the quiz, and ends the quiz when time runs out. An incorrect answer also reduced the remaining time by 10 seconds.
-After the quiz is over the user can input their initials to save their score onto the local storage, which can be cleared from the highscores page.
-<br>
-This challenge helped me further my skills with getting and using a user's input to affect a webpage, and helped me learn how to store, retrieve and clear data from the local storage.
+## Credit
 
-## Usage
+![License Badges by lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
-Link to the webpage: https://devonmcfarlen.github.io/UTA-Bootcamp-Module4-challenge-JSQuiz/
-
-![alt text](./assets/images/websiteSS.png)
-
-
-## License
-
-MIT License
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
