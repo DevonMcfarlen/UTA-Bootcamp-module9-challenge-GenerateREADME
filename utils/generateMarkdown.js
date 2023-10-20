@@ -71,7 +71,7 @@ function renderLicenseSection(license) {
     return '';
   else
     return `## License
-  ${renderLicenseBadge(license)}${renderLicenseLink(license)} <br> ${data.title} is covered under the ${license} license`;
+  ${renderLicenseBadge(license)}${renderLicenseLink(license)} <br> This project is covered under the ${license} license`;
 }
 
 // TODO: Create a function to generate markdown for README
