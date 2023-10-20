@@ -2,13 +2,11 @@
 
   # Table of Contents
 
-  [Description](#description)
-  [Installation Instructions](#install)
-  [Usage](#usage)
-  [How To Contribute](#contribute)
-  [Tests](#tests)
-  [Questions](#questions)
-  [Credit](#credit)
+  [Description](#description) <br>
+  [Installation Instructions](#install) <br>
+  [Usage](#usage) <br>
+  [Questions](#questions) <br>
+  [Credit](#credit) <br>
   
   ## Description <a name="description"></a>
   

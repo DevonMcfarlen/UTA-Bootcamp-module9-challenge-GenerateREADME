@@ -80,12 +80,12 @@ function generateMarkdown(data) {
 
   # Table of Contents
 
-  [Description](#description)
-  [Installation Instructions](#install)
-  [Usage](#usage)
-  [How To Contribute](#contribute)
-  [Tests](#tests)
-  [Questions](#questions)
+  [Description](#description) <br>
+  [Installation Instructions](#install) <br>
+  [Usage](#usage) <br>
+  [How To Contribute](#contribute) <br>
+  [Tests](#tests) <br>
+  [Questions](#questions) <br>
 
   ## Description <a name="description"></a>
   
