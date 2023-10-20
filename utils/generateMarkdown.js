@@ -87,33 +87,29 @@ function generateMarkdown(data) {
   [Tests](#tests)
   [Questions](#questions)
 
-  <a name="description"></a>
-  ## Description
+  ## Description <a name="description"></a>
   
   ${data.desc}
 
-  <a name="install"></a>
-  ## Installation Instructions
+  ## Installation Instructions <a name="install"></a>
 
   ${data.install}
   
-  <a name="usage"></a>
-  ## Usage
+
+  ## Usage <a name="usage"></a>
 
   ${data.usage}
 
-  <a name="contribute"></a>
-  ## How to Contribute
+  ## How to Contribute <a name="contribute"></a>
 
   ${data.contri}
   
-  <a name="tests"></a>
-  ## Tests
+  ## Tests <a name="tests"></a>
 
   ${data.tests}
   
-  <a name="questions"></a>
-  ## Questions
+  
+  ## Questions <a name="questions"></a>
 
   ![My Github](https://github.com/${data.gitHub}) 
   <br>
